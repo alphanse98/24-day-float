@@ -1,0 +1,25 @@
+body .one{
+   color: white;
+}
+.x{
+    background-color: green;
+    width: 50%;
+    float: left;
+    height: 400px;
+    text-align: center;
+   
+}
+.t{
+    background-color: red;
+    width: 50%;
+    float: right;
+    height: 400px;
+    text-align: center;
+}
+.b{
+    background-color: black;
+    color: white;
+    text-align: center;
+   width: 100%;
+   
+}
